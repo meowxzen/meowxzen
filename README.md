@@ -4,9 +4,9 @@ _> Rendering a better life, one frame at a time_
 
 ### 💻 Current Stack
 
-- **Academic:** BCA Student
-- **Interests:**
-- **Current Goals:** Building a better life, one commit at a time
+- Pursuing [Bachelor of Computer Application(BCA)](https://www.collegesnepal.com/tribhuvan-university/bachelor-of-computer-application-bca/)
+- Bridging the gap between aesthetic front-end design and technical logic.
+- Refining React workflows and exploring headless UI components
 
 ### 🛠️ Tech Stack
 
