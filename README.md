@@ -1,4 +1,4 @@
-## **BUFFERKITTY // ZEN**
+## **ZEN**
 
 _> Rendering a better life, one frame at a time_
 
